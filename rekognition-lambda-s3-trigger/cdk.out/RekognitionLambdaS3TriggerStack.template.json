@@ -470,7 +470,7 @@
   "CDKMetadata": {
    "Type": "AWS::CDK::Metadata",
    "Properties": {
-    "Analytics": "v2:deflate64:H4sIAAAAAAAA/z2PT0/DMAzFP8vuqSlMcGeT4DqNcZ7cJAyvTYLiRFMV9bsTN4PT+71ny3+e4LmHfoM37rQZu4kGKB8J9ahqdC6EDsp7DPlH7b98g0+2UdyqhzCRnsXe6RgmK1Z0UbyFsst6tEmyOzXZIdeGCd1gEIoMsNERMwWv3rLXSaDGf7woM3t0wdQLTzi0LSvImjMy28TwKrKsB1gOOWqr/mGt1ecu5C/SsQ/eUBt9mNN38A9beOzhZXNloi5mn8hZODb9BRftsJgpAQAA"
+    "Analytics": "v2:deflate64:H4sIAAAAAAAA/z2PT0/DMAzFP8vuqSlMSFzZJLhOY5wnNwnDa5OgONFURf3uxM3g9H7v2fKfJ3juod/gjTttxm6iAcpHQj2qGp0LoYPyHkP+Ufsv3+CTbRS36iFMpGexdzqGyYoVXRRvoeyyHm2S7E5Ndsi1YUI3GIQiA2x0xEzBq7fsdRKo8R8vysweXTD1whMObcsKsuaMzDYxvIos6wGWQ47aqn9Ya/W5C/mLdOyDN9RGH+b0HfzDFh57eNlcmaiL2SdyFo5NfwGXkQJTKQEAAA=="
    },
    "Metadata": {
     "aws:cdk:path": "RekognitionLambdaS3TriggerStack/CDKMetadata/Default"

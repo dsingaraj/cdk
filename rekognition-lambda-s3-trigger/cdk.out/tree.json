@@ -9,7 +9,7 @@
         "path": "Tree",
         "constructInfo": {
           "fqn": "constructs.Construct",
-          "version": "10.1.155"
+          "version": "10.1.156"
         }
       },
       "RekognitionLambdaS3TriggerStack": {
@@ -198,7 +198,7 @@
                 },
                 "constructInfo": {
                   "fqn": "constructs.Construct",
-                  "version": "10.1.155"
+                  "version": "10.1.156"
                 }
               }
             },
@@ -583,7 +583,7 @@
             },
             "constructInfo": {
               "fqn": "constructs.Construct",
-              "version": "10.1.155"
+              "version": "10.1.156"
             }
           },
           "CDKMetadata": {
@@ -609,7 +609,7 @@
             },
             "constructInfo": {
               "fqn": "constructs.Construct",
-              "version": "10.1.155"
+              "version": "10.1.156"
             }
           }
         },

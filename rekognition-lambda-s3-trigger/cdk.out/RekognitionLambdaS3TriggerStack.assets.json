@@ -14,7 +14,7 @@
         }
       }
     },
-    "816371591dc2c34dbc5738716530a69b19f1000f768fd5522257f09cb321e832": {
+    "a7124374ffde8a5f8d9f45fd36a253c480c1a71f20a97957fa29e7be2ca1a87c": {
       "source": {
         "path": "RekognitionLambdaS3TriggerStack.template.json",
         "packaging": "file"
@@ -22,7 +22,7 @@
       "destinations": {
         "current_account-current_region": {
           "bucketName": "cdk-hnb659fds-assets-${AWS::AccountId}-${AWS::Region}",
-          "objectKey": "816371591dc2c34dbc5738716530a69b19f1000f768fd5522257f09cb321e832.json",
+          "objectKey": "a7124374ffde8a5f8d9f45fd36a253c480c1a71f20a97957fa29e7be2ca1a87c.json",
           "assumeRoleArn": "arn:${AWS::Partition}:iam::${AWS::AccountId}:role/cdk-hnb659fds-file-publishing-role-${AWS::AccountId}-${AWS::Region}"
         }
       }
