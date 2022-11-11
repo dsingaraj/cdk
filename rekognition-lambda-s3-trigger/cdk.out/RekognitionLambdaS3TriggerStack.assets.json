@@ -1,0 +1,32 @@
+{
+  "version": "21.0.0",
+  "files": {
+    "d731302b4801ca18b59345bb26754cb824057ddf9bd7403207dd4e99f160aa15": {
+      "source": {
+        "path": "asset.d731302b4801ca18b59345bb26754cb824057ddf9bd7403207dd4e99f160aa15",
+        "packaging": "zip"
+      },
+      "destinations": {
+        "current_account-current_region": {
+          "bucketName": "cdk-hnb659fds-assets-${AWS::AccountId}-${AWS::Region}",
+          "objectKey": "d731302b4801ca18b59345bb26754cb824057ddf9bd7403207dd4e99f160aa15.zip",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::${AWS::AccountId}:role/cdk-hnb659fds-file-publishing-role-${AWS::AccountId}-${AWS::Region}"
+        }
+      }
+    },
+    "816371591dc2c34dbc5738716530a69b19f1000f768fd5522257f09cb321e832": {
+      "source": {
+        "path": "RekognitionLambdaS3TriggerStack.template.json",
+        "packaging": "file"
+      },
+      "destinations": {
+        "current_account-current_region": {
+          "bucketName": "cdk-hnb659fds-assets-${AWS::AccountId}-${AWS::Region}",
+          "objectKey": "816371591dc2c34dbc5738716530a69b19f1000f768fd5522257f09cb321e832.json",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::${AWS::AccountId}:role/cdk-hnb659fds-file-publishing-role-${AWS::AccountId}-${AWS::Region}"
+        }
+      }
+    }
+  },
+  "dockerImages": {}
+}
